@@ -1,0 +1,22 @@
+[
+  {
+    "code": "fd-001",
+    "nama_makanan": "Seblak Madya",
+    "stok": 4
+  },
+  {
+    "code": "fd-002",
+    "nama_makanan": "Bakso Cap Madya",
+    "stok": 3
+  },
+  {
+    "code": "fd-003",
+    "nama_makanan": "Geprek Madya",
+    "stok": 10
+  },
+  {
+    "code": "fd-004",
+    "nama_makanan": "Pop Mie Madya",
+    "stok": 7
+  }
+]
